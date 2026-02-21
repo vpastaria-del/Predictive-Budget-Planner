@@ -1,19 +1,9 @@
 
 # 📊 AI Expense Tracker
 
-[![Vercel](https://vercelbadge.vercel.app/api/nirban256/expense_tracker)](https://expense-tracker-phi-wine.vercel.app)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 [![React](https://img.shields.io/badge/React-2024-blue.svg)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-15-black.svg)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.4.1-38bdf8.svg)](https://tailwindcss.com/)
-
----
-
-## 🌐 Live Demo
-
-👉 [Try It Live on Vercel](https://expense-tracker-phi-wine.vercel.app)
-
----
 
 ## 🧠 About the Project
 
@@ -116,12 +106,6 @@ npm run dev
 - [ ] Recurring expense prediction
 - [ ] Monthly budget planner
 - [ ] Mobile app (React Native)
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
